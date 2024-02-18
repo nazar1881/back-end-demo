@@ -25,7 +25,7 @@ const db = {
 }
 
 app.get('/', (req: Request, res: Response) => {
-  res.send('Hello World !!!')
+  res.send('Hello World, i am gonna be Full-Stack dev !!!')
 })
 
 app.get('/courses', (req: Request, res: Response) => {
