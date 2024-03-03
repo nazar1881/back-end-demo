@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.ts",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "watch": "tsc -w",
     "dev": "nodemon --inspect dist/index.js",
